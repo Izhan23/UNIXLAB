@@ -1,5 +1,5 @@
 #! /bin/sh
-echo "Enter any two numbers"
+echo "Enter two numbers"
 read a
 read b
 ad1=`expr $a + $b`
